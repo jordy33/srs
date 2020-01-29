@@ -1,4 +1,4 @@
-###Install h264 library
+### Install h264 library
 
 Open a terminal window on the raspberrypi (or via SSH connection) and type in the following commands:
 Download h264 library: 
